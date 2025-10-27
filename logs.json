@@ -10,5 +10,11 @@
         "action": "suspendre_compte",
         "cible": "alipe@example.com",
         "date": "2025-05-19T15:07:33+02:00"
+    },
+    {
+        "admin_id": 77,
+        "action": "suspendre_compte",
+        "cible": "alice@example.com",
+        "date": "2025-06-06T10:19:28+02:00"
     }
 ]
